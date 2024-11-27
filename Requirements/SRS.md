@@ -88,7 +88,7 @@
 
 Окно логина
 
-![Окно логина](https:github.com/GutkovskiyArtem/Financik/blob/main/Mockups/SignIn.png)
+![Окно логина](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/SignIn.png)
 
 Главное окно приложения
 
@@ -112,7 +112,7 @@
 
 Окно настроек
 
-![Окно настроек](https://ggithub.com/GutkovskiyArtem/Financik/Mockups/Settings.png)
+![Окно настроек](https://github.com/GutkovskiyArtem/Financik/Mockups/Settings.png)
 
 Окно изменения данных пользователя
 
