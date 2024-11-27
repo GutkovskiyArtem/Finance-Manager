@@ -33,4 +33,4 @@
 
 ### Спецификация требований
 
-Ознакомиться со спецификацией требований ПО можно [по ссылке](https://github.com/mxrpheus6/Financik/blob/master/Requirements/SRS.md)
+Ознакомиться со спецификацией требований ПО можно [по ссылке](https://github.com/GutkovskiyArtem/Financik/blob/master/Requirements/SRS.md)
