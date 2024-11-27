@@ -84,31 +84,31 @@
 
 Окно регистрации
 
-![Окно регистрации](https://github.com/GutkovskiyArtem/Financik/Mockups/SignUp.png)
+![Окно регистрации](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/SignUp.png)
 
 Окно логина
 
-![Окно логина](https:github.com/GutkovskiyArtem/Financik/Mockups/SignIn.png)
+![Окно логина](https:github.com/GutkovskiyArtem/Financik/blob/main/Mockups/SignIn.png)
 
 Главное окно приложения
 
-![Главное окно приложения](https://github.com/GutkovskiyArtem/Financik/Mockups/Home.png)
+![Главное окно приложения](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/Home.png)
 
 Окно добавления дохода (или расхода)
 
-![Окно добавления дохода (или расхода)](https://github.com/GutkovskiyArtem/Financik/Mockups/AddNew.png)
+![Окно добавления дохода (или расхода)](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/AddNew.png)
 
 Окно новой категории
 
-![Окно новой категории](https://github.com/GutkovskiyArtem/Financik/Mockups/AddNewCategory.png)
+![Окно новой категории](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/AddNewCategory.png)
 
 Окно истории операций
 
-![Окно истории операций](https://github.com/GutkovskiyArtem/Financik/Mockups/Chart.png)
+![Окно истории операций](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/Chart.png)
 
 Выбор месяца для просмотра истории операций
 
-![Выбор месяца для просмотра истории операций](https://github.com/GutkovskiyArtem/Financik/Mockups/DatePicker.png)
+![Выбор месяца для просмотра истории операций](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/DatePicker.png)
 
 Окно настроек
 
@@ -116,7 +116,7 @@
 
 Окно изменения данных пользователя
 
-![Окно изменения данных пользователя](https://github.com/GutkovskiyArtem/Financik/Mockups/EditProfile.png)
+![Окно изменения данных пользователя](https://github.com/GutkovskiyArtem/Financik/blob/main/Mockups/EditProfile.png)
 
 <a name="user_specifications"/>
 
